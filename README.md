@@ -108,6 +108,7 @@ Kemudian atur property clear pada CSS, seperti berikut.
 }
 ```
 Hasilnya:
+
 ![image](https://github.com/user-attachments/assets/45cbbd0d-b472-4e5a-beb6-51fd5b0c033d)
 
 # Membuat Layout Sederhana
@@ -167,6 +168,7 @@ Hasilnya:
 </html>
 ```
 Hasilnya:
+
 ![image](https://github.com/user-attachments/assets/55c636be-ae8e-4380-b829-e88ed2dd0fc1)
 
 ## Kemudian tambahkan kode CSS untuk membuat layoutnya.
@@ -209,6 +211,7 @@ header h1 {
 }
 ```
 Hasilnya:
+
 ![image](https://github.com/user-attachments/assets/5f1dd73e-8b2e-4d5c-bbd2-d28182a471a9)
 
 ## Membuat Navigasi
@@ -235,6 +238,7 @@ nav a:hover {
 }
 ```
 Hasilnya:
+
 ![image](https://github.com/user-attachments/assets/4de990fa-6003-4a66-9b04-93f0da17bb01)
 
 ## Membuat Hero Panel.
@@ -270,6 +274,7 @@ css
 }
 ```
 Hasilnya:
+
 ![image](https://github.com/user-attachments/assets/b5da0171-0c8b-419a-8b0a-50ce1f78872a)
 
 ## Mengatur Layout Main dan Sidebar
@@ -355,6 +360,7 @@ Kemudian tambahkan CSS.
 }
 ```
 Hasilnya:
+
 ![image](https://github.com/user-attachments/assets/55190eb2-3341-4fe6-83ee-0208e4e7d22f)
 
 ## Mengatur Footer
@@ -369,6 +375,7 @@ footer {
 }
 ```
 Hasilnya:
+
 ![image](https://github.com/user-attachments/assets/dcedff12-a047-4395-8238-69c49bb87aa0)
 
 ## Menambahkan Elemen lainnya pada Main Content
@@ -453,6 +460,7 @@ box img {
 }
 ```
 Hasilnya:
+
 ![image](https://github.com/user-attachments/assets/8ae005cb-76ec-459e-bf18-ab4e20515fe1)
 
 ## Menambahkan Content Artikel
@@ -510,6 +518,7 @@ Kemudian tambahkan CSS.
 }
 ```
 Hasinya:
+
 ![image](https://github.com/user-attachments/assets/77712fbb-8e0a-47c5-9b7d-ae28c2a648fe)
 
 
